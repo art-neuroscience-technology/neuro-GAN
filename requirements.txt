@@ -1,0 +1,7 @@
+scipy
+numpy
+matplotlib
+Pillow
+gdown
+tensorflow-gpu==2.4.0
+pandas

@@ -126,5 +126,5 @@ The .h5 files can be converted to tflite as follows:
 	tflite_convert  --keras_model_file=models/generator1.h5 --output_file=models-tflite/generator1.tflite
 ```
 ## Final images 
-at the folder [images][images] you can find the generated images with the selected models 
+at the folder images you can find the generated images with the selected models 
 ![19_6400.png](images/19_6400.png)

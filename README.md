@@ -128,4 +128,9 @@ The .h5 files can be converted to tflite as follows:
 ## Final images 
 At the folder [images](images) you can find the generated images with the selected models.
 
-<img src="images/19_6400.png" alt="image" width="200"/>
+
+
+:-------------------------:|:-------------------------:
+<img src="images/19_6400.png" alt="image" width="200"/>  | <img src="images/5_5900.png" alt="image" width="200"/>
+<img src="images/10_5700.png" alt="image" width="200"/>  | <img src="images/17_7200.png" alt="image" width="200"/>
+

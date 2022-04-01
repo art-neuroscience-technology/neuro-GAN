@@ -137,7 +137,7 @@ At the folder [images](images) you can find the generated images with the select
   
   <tr>
     <td><img src="images/10_5700.png" alt="image" width="200"/></td>
-    <td><img src="images/17_7200.png" alt="image" width="200"/></td>
+    <td><img src="images/8_5600.png" alt="image" width="200"/></td>
   </tr>
 </table>
 
